@@ -1,0 +1,11 @@
+target/
+.git/
+.gitignore
+.env
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+HELP.md
+README.md
